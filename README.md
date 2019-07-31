@@ -1,1 +1,1 @@
-# KNN-Assignment_AvgW2V-and-TFIDFW2V
+# KNN_AvgW2V-and-TFIDFW2V
